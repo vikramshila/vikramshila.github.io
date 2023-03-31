@@ -1,0 +1,100 @@
+[
+  {
+    "catgory_name": "ओळखा पाहू",
+    "catgory_id": "1",
+    "catgory_icon": "olakha_pahu",
+    "category_detail_url": "/odkha.json"
+  },
+  {
+    "catgory_name": "कलाकृती",
+    "catgory_id": "2",
+    "catgory_icon": "kalakruti",
+    "category_detail_url": "/kalakruti.json"
+  },
+  {
+    "catgory_name": "खेळ खेळूया  - अंकांचा",
+    "catgory_id": "3",
+    "catgory_icon": "khel_kheluya_ankacha",
+    "category_detail_url": "/khelKheluya.json"
+  },
+  {
+    "catgory_name": "खेळ खेळूया  - अक्षरांचा",
+    "catgory_id": "4",
+    "catgory_icon": "khel_khelya_aksharancha",
+    "category_detail_url": "/khelKheluya.json"
+  },
+  {
+    "catgory_name": "गप्पाटप्पा - मुलांशी",
+    "catgory_id": "5",
+    "catgory_icon": "gappatappa_mulanshi",
+    "category_detail_url": "/gappa.json"
+  },
+  {
+    "catgory_name": "म्हणूया गाणी - हवीतेंव्हा",
+    "catgory_id": "6",
+    "catgory_icon": "mhanuya_gani",
+    "category_detail_url": "/mhanuGaani.json"
+  },
+  {
+    "catgory_name": "गुजगोष्टी -पालकांशी",
+    "catgory_id": "7",
+    "catgory_icon": "gujagoshti_palakanshi",
+    "category_detail_url": "/gujGoshti.json"
+  },
+  {
+    "catgory_name": "प्रयोग गंमतीचे",
+    "catgory_id": "8",
+    "catgory_icon": "prayog_gamatiche",
+    "category_detail_url": "/prayog.json"
+  },
+  {
+    "catgory_name": "खेळ मजेचे",
+    "catgory_id": "9",
+    "catgory_icon": "khel_majeche",
+    "category_detail_url": "/khelMajja.json"
+  },
+  {
+    "catgory_name": "मुलांचा सहभाग घेऊ",
+    "catgory_id": "10",
+    "catgory_icon": "mulancha_sahabhag",
+    "category_detail_url": "/mulanchasahbhag.json"
+  },
+  {
+    "catgory_name": "एकूया गोष्टी - रोज झोपताना",
+    "catgory_id": "11",
+    "catgory_icon": "aikuya_goshti",
+    "category_detail_url": "/rozZopGosht.json"
+  },
+  {
+    "catgory_name": "हिंदी गतिविधी ",
+    "catgory_id": "12",
+    "catgory_icon": "hindi",
+    "category_detail_url": "/rozZopGosht.json",
+    "category_Detail": [
+      {
+        "catgory_name": "खेल खेल में",
+        "catgory_id": "121",
+        "catgory_icon": "khel_majeche",
+        "category_detail_url": "/hindi/khelkhelme.json"
+      },
+      {
+        "catgory_name": "कहानी",
+        "catgory_id": "122",
+        "catgory_icon": "aikuya_goshti",
+        "category_detail_url": "/hindi/kahani.json"
+      },
+      {
+        "catgory_name": "गीत",
+        "catgory_id": "123",
+        "catgory_icon": "mhanuya_gani",
+        "category_detail_url": "/hindi/geet.json"
+      },
+      {
+        "catgory_name": "बच्चों की परवरिश",
+        "catgory_id": "124",
+        "catgory_icon": "gujagoshti_palakanshi",
+        "category_detail_url": "/hindi/bachokiparvarish.json"
+      }
+    ]
+  }
+]

@@ -1,0 +1,226 @@
+header {
+  position: absolute;
+  top:10px;
+  right:30px;
+}
+
+header a:link, a:visited, a:active {
+    color: #2a2a2a;
+    font-family: arial, sans-serif;
+    font-size:12px;
+    text-decoration:none;
+  margin-right:5px;
+  margin-left:5px;
+  position:relative;
+}
+
+header a:hover {
+  text-decoration:underline;
+}
+
+input.middle:focus {
+    outline-width: 0;
+}
+
+.form input#search{
+       text-align: center;
+        position:absolute; /*it can be fixed too*/
+        left:0; right:0;
+        top:0; bottom:0;
+  margin:auto;
+    font-family: Economica;
+   outline: none;
+
+
+  width: 380px;
+  height: 50px;
+  background: transparent;
+  border: none;
+  font-size: 10pt;
+  float: left;
+  color: #fff;
+  border-bottom: 1px solid white;
+
+}
+
+row {
+    font-family: Economica;
+
+
+}
+
+.google #google_logo {
+  text-align: center;
+  display: block;
+  margin: auto;
+  position: all;
+  clear: both;
+}
+
+.form {
+  text-align: center;
+}
+
+/*#form-search { 
+  width: 100px;
+  line-height: 28px;
+  padding: 20px 10px;
+   border-bottom: 2px solid white;
+   border: none;
+}*/
+
+.form input#search {
+  padding: 0 8px;
+}
+
+
+.form button.icon{
+  -webkit-border-top-right-radius: 5px;
+  -webkit-border-bottom-right-radius: 5px;
+  -moz-border-radius-topright: 5px;
+  -moz-border-radius-bottomright: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+ 
+  border: none;
+  background: #232833;
+  height: 50px;
+  width: 50px;
+  color: #4f5b66;
+  opacity: 0;
+  font-size: 10pt;
+ 
+  -webkit-transition: all .55s ease;
+  -moz-transition: all .55s ease;
+  -ms-transition: all .55s ease;
+  -o-transition: all .55s ease;
+  transition: all .55s ease;
+}
+
+// Button
+
+button.launch {
+background-color: #F9A300;
+border: none;
+height: 158px;
+padding: 5px 15px;
+color: #ffffff;
+font-size: 16px;
+font-weight: 300;
+margin-top: 10px;
+margin-right: 10px;
+}
+
+button.launch:hover {
+cursor: pointer;
+background-color: #FABD44;
+}
+
+button.launch {
+background-color: #F9A300;
+border: none;
+height: 100px;
+width: 100px;
+padding: 5px 15px;
+color: #ffffff;
+font-size: 16px;
+font-weight: 300;
+margin-top: 10px;
+margin-right: 10px;
+}
+
+footer {
+  position: absolute;
+  bottom:20px;
+  left:0px;
+  right:0px;
+  background:transparent;
+  /*padding-top:22px;*/
+  /*border-top: 1px solid #e9e9e9;*/
+}
+
+footer a:link, a:visited, a:active {
+  color: #fff;
+  font-family: Economica;
+  font-size:17px;
+  text-decoration:none;
+  
+    }
+    
+footer a:hover {
+  /*text-decoration:underline;*/
+}
+
+.leftlinks {
+  position: relative;
+  left:25px;
+  right:25px;
+  padding-right:25px;
+  padding-left:25px;
+
+}
+
+.rightlinks {
+ position: relative;
+  left:18px;
+  right:18px;
+  padding-right:20px;
+  padding-left:20px;
+}
+
+
+
+.button:hover {
+  color: #2a2a2a;
+  border: 1px solid #bdbdbd;
+}
+
+.search:hover {
+  border:1px solid #aaaaaa;
+}
+
+/*About US*/
+
+
+.header {
+  position: all;
+  padding: 10px 16px;
+  background: #555;
+  color: #f1f1f1;
+}
+
+.content {
+  padding: 16px;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 102px;
+}
+
+
+/* Team */
+.wrapper {
+  padding: 100px;
+}
+
+.image--cover {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin: 20px;
+
+  object-fit: cover;
+  object-position: center right;
+  border:1px solid white;
+
+}
+
+
+/*  dsdfsdf */
+
