@@ -1,0 +1,26 @@
+{
+    {
+        "catgory_name": "खेल खेल में",
+        "catgory_id": "121",
+        "catgory_icon": "khel_majeche",
+        "category_detail_url": "/hindi/khelkhelme.json"
+      },
+      {
+        "catgory_name": "कहानी",
+        "catgory_id": "122",
+        "catgory_icon": "aikuya_goshti",
+        "category_detail_url": "/hindi/kahani.json"
+      },
+      {
+        "catgory_name": "गीत",
+        "catgory_id": "123",
+        "catgory_icon": "mhanuya_gani",
+        "category_detail_url": "/hindi/geet.json"
+      },
+      {
+        "catgory_name": "बच्चों की परवरिश",
+        "catgory_id": "124",
+        "catgory_icon": "gujagoshti_palakanshi",
+        "category_detail_url": "/hindi/bachokiparvarish.json"
+      }
+}
